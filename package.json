@@ -1,0 +1,13 @@
+{
+  "name": "duplicatedfileslookup",
+  "version": "1.0.0",
+  "description": "Get a list of duplicated files on selected path",
+  "main": "app.js",
+  "dependencies": {
+    "graceful-fs": "^4.1.11"
+  },
+  "devDependencies": {},
+  
+  "author": "RixSka <rixska@yahoo.it>",
+  "license": "MIT"
+}
