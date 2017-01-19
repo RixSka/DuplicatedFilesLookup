@@ -24,6 +24,6 @@ dfl.getProgress(function(progress){
 });
 ```
 ### LICENSE
-[DuplicatedFilesLookup](https://www.npmjs.com/package/duplicatedfileslookup) [(MIT)](https://github.com/RixSka/duplicatedfileslookup/blob/master/LICENSE)
-[graceful-fs](https://www.npmjs.com/package/graceful-fs) [(ISC)](https://spdx.org/licenses/ISC)
+- [DuplicatedFilesLookup](https://www.npmjs.com/package/duplicatedfileslookup) [(MIT)](https://github.com/RixSka/duplicatedfileslookup/blob/master/LICENSE)
+- [graceful-fs](https://www.npmjs.com/package/graceful-fs) [(ISC)](https://spdx.org/licenses/ISC)
 
