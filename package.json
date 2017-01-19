@@ -7,7 +7,17 @@
     "graceful-fs": "^4.1.11"
   },
   "devDependencies": {},
-  
   "author": "RixSka <rixska@yahoo.it>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RixSka/DuplicatedFilesLookup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RixSka/DuplicatedFilesLookup/issues"
+  },
+  "homepage": "https://github.com/RixSka/DuplicatedFilesLookup#readme"
 }
