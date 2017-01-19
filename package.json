@@ -1,6 +1,6 @@
 {
   "name": "duplicatedfileslookup",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get a list of duplicated files on selected path",
   "main": "app.js",
   "dependencies": {
