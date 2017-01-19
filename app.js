@@ -16,5 +16,5 @@ function getDuplicateds(path,callback){
 function getProgress(callback){
     callback(progress);
 }
-module.exports.getDuplicateds = getDuplicateds; //get final result with one function
-module.exports.getProgress = getProgress; //get progress (count will start from 0)
+exports.getDuplicateds = getDuplicateds; //get final result with one function
+exports.getProgress = getProgress; //get progress (count will start from 0)
